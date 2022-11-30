@@ -1,0 +1,97 @@
+body {
+  background-image: url(fonda.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.boton4 {
+
+  text-decoration: none;
+  display: inline-block;
+  width: 20px;
+  padding: 20px;
+  background: rgb(143, 143, 143);
+  width: 130px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  transition: all 0.9s ease;
+  box-shadow: -5px 1px 3px 0px rgb(0, 79, 248);
+  border-radius: 10px 30px;
+
+}
+
+
+.boton4:hover {
+
+  background: rgb(182, 187, 182);
+  color: rgb(126, 126, 126);
+  box-shadow: none;
+  border-radius: 10px;
+
+}
+
+*{
+  font-family: 'quicksand', sans-serif;
+
+}
+
+.login {
+  margin: 50px;
+  padding: 5px 5px 5px 5px;
+  border: 2px solid rgb(1, 230, 255);
+  cursor: pointer;
+  font-family: 'quicksand', sans-serif;
+
+}
+
+.color-login {
+  background: rgb(0, 187, 255);
+}
+
+img {
+  display: block;
+  margin: auto;
+  float: center;
+  border-radius: 250px;
+
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  margin: 100px 400px 0px 700px;
+  font-family: 'quicksand', sans-serif;
+
+
+}
+
+button {
+  float: right;
+}
+
+.div {
+  margin: 0px 400px 1300px 500px;
+
+}
+
+.box01 {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.box02 {
+  border-radius: 90px;
+  width: 45%;
+
+}
+
+.box03 {
+  width: 45%;
+  color: rgb(255, 255, 255);
+
+}
+

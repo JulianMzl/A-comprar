@@ -1,0 +1,59 @@
+body{
+    background-image: url(fonda.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    color: rgb(252, 252, 252);
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'quicksand', sans-serif;
+}
+.box01{
+text-align: center;
+}
+
+.box02{
+    margin: 50px;
+    color: beige;
+}
+.box03{
+    width: 45%;
+    border: white;
+    align-self: center;
+    
+}
+.boton4{
+            
+    text-decoration: none;
+    display:inline-block;
+    width:20px;
+    padding:20px;
+    background: rgb(143, 143, 143);
+    width: 130px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    transition: all 0.9s ease;
+    box-shadow: -5px 1px 3px 0px rgb(0, 79, 248);
+    border-radius: 10px 30px;
+    
+  }
+
+
+  .boton4:hover{
+            
+    background: rgb(182, 187, 182);
+    color:rgb(126, 126, 126);
+    box-shadow:none;
+    border-radius: 10px;
+ 
+
+  }
+*{
+    font-family:  'quicksand', sans-serif;
+    
+ }
